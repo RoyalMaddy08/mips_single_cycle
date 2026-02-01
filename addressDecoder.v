@@ -1,4 +1,4 @@
-// Description: address_decoder.v
+//address_decoder.v
 
 module address_decoder(i_clk, i_we, i_address, o_ram_we, o_ddir_we, o_dout_we, o_din_re, o_dcycle_we, o_config_we);	
 
